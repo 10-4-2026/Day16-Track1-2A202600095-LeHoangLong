@@ -120,6 +120,8 @@ Why competitors cannot easily replicate this:
 Trong 6 mắt xích (Idea → Customer → Need → Strategy → Moat → Market Size), mắt xích nào team đang yếu nhất?
 
 > [trả lời thật — đây là input quan trọng cho Day 17]
+> Customer gặp rất khó,
+
 
 Open questions chúng tôi muốn khám phá thêm ở Day 17:
 1. [...]
