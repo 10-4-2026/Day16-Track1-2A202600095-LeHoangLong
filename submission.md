@@ -44,19 +44,6 @@ One-sentence description:
 - **Evidence / proxy evidence:** [ cảm nhận thực tế ]
 - **Why underserved:** [ làm việc thủ công nên có năng suất thấp]
 
-### Need #2
-- **Statement (JTBD):** [...]
-- **Current workaround:** [...]
-- **Pain signal:** [...]
-- **Evidence / proxy evidence:** [...]
-- **Why underserved:** [...]
-
-### Need #3 (optional)
-- **Statement (JTBD):** [...]
-- **Current workaround:** [...]
-- **Pain signal:** [...]
-- **Evidence / proxy evidence:** [...]
-- **Why underserved:** [...]
 
 ---
 
